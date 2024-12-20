@@ -1,0 +1,17 @@
+sgt -> bsa
+lrn -> ugu
+nbs -> sgt
+ugu -> s2
+qml -> s1
+hyj -> vew
+mop -> knv
+s2 -> wrk
+ghz -> qml
+pzl -> jut
+jut -> ghz
+knv -> uzc
+vew -> nbs
+bsa -> lrn
+uzc -> pzl
+wrk -> hyj
+s1 -> mop

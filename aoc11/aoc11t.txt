@@ -1,0 +1,18 @@
+yzo (SPL) -> vat
+yzo (SPL) -> tkw
+wee (OR) -> output
+ftc (SPL) -> wee
+ftc (SPL) -> ncf
+vat -> ftc
+qec -> zah
+input (SPL) -> sti
+input (SPL) -> igv
+zah (NEG) -> xbd
+xbd -> yzo
+ncf (OR) -> output
+qrz (ADD) -> qec
+tkw (SPL) -> wee
+tkw (SPL) -> ncf
+sti (NEG) -> qrz
+igv (NEG) -> qrz
+3147

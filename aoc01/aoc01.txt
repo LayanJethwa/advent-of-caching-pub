@@ -1,0 +1,21 @@
+The elves have heard about geocaching, and want to set up their own! 
+They have created a system with codes that are a maximum of 3 digits long (ie. 1-999). 
+Their system randomly allocates codes, but it has broken! 
+The elves need to identify all the correct codes, whilst removing the incorrect ones.
+
+Can you help them? Add up all the correct codes for your answer.
+
+They have provided you with a test input, with the valid codes marked in bold:
+
+1878
+259
+1308
+1801
+244
+1927
+1418
+1196
+555
+456
+
+This should give the answer 1514.
