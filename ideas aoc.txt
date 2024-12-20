@@ -1,0 +1,27 @@
+1. basic arithmetic warmup X C
+2. string processing X C
+3. string processing X C
+4. simulation X C
+5. simulation p2 X C
+6. combinatorics X C
+7. calculus maths X C
+8. coordinate transform image processing pixels X C
+9. path grid length X C
+10. graph traversal X C
+11. bitwise arithmetic thingy virtual machine X
+12. image reconstruction X
+13. cycle detection X
+14. shortest path X
+15. grid coordinate geometry X
+16. cryptography X
+17. parsing/regex/pattern matching X
+18. bin packing X
+19. things moving cellular automata X
+20. velocity time collision thing simulation X
+21. weird input simulation thing X
+22. brute force doesn't work maths thing X
+23. longest path X
+24. dp recursive memoization X
+
+25. bonus X
+
