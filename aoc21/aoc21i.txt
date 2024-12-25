@@ -1,0 +1,29 @@
+
+            Blitzen
+               []
+
+  Dasher []        [] Vixen
+
+Donner []   [█][5O]    [] Prancer
+
+Comet []             []  Rudolph
+
+          []      []
+        Dancer   Cupid
+
+
+Dasher: [2+][5*][10+][7O][10J][2J][Q+]
+Prancer: [4*][AJ][8J][J+][7J][6J][7O]
+Donner: [9+][9*][Q*][A*][K+][6O][2O]
+Blitzen: [AJ][KO][9J][5J][JJ][KJ][10J]
+Dancer: [A*][3*][7+][4+][8O][8J][3J]
+Vixen: [9+][4*][QO][5*][QJ][4J][3O]
+Comet: [3O][KJ][5J][7*][AO][6+][JO]
+Cupid: [2O][K*][10O][K*][5O][Q+][3+]
+Rudolph: [JJ][QO][10+][A+][3+][KO][7*]
+
+Deck: [JO][3J][4+][6*][8+][Q*][9*][4O][9O][4J]
+      [4O][2*][9O][6J][2+][8+][8*][6O][7J][6*]
+      [K+][9J][8*][7+][3*][J*][10*][J*][5+][A+]
+      [5+][10O][6+][2*][10*][AO][J+][8O][2J][QJ]
+      

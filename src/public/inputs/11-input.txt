@@ -1,0 +1,2484 @@
+yui (SPL) -> mmj
+yui (SPL) -> njj
+nmn -> hzr
+nmn -> yze
+jgs -> spq
+uzm -> xwh
+pey -> axu
+bxy (NEG) -> xuv
+vlp -> scv
+mom -> zpg
+kzx -> dqq
+eln (OR) -> pyz
+xfh -> qeg
+xfh -> hlv
+tzu (NEG) -> swt
+foh -> hed
+boh -> klv
+djw -> act
+xgo -> vyv
+xgo -> ikn
+ztt (NEG) -> bis
+qfi (OR) -> ctz
+tvl -> vdp
+mwt -> eyu
+fgr -> aml
+fsk -> bsq
+fsk -> wnp
+hjd (SPL) -> dyx
+hjd (SPL) -> koj
+awq -> jjy
+hrh -> lvx
+wau (ADD) -> yoq
+xsz (OR) -> ijc
+rlb (NEG) -> nlg
+qyy -> lhb
+kzp (OR) -> hqa
+xhz (MUL) -> jtg
+nii (OR) -> rfx
+nii (OR) -> eun
+dei (SPL) -> azu
+dei (SPL) -> ecj
+vwp -> qao
+eql -> piu
+bos (OR) -> gss
+bos (OR) -> vxh
+ekp -> kpb
+ouu -> kax
+ouu -> uul
+zgm (NEG) -> gng
+ltc -> vct
+qjd (NEG) -> mut
+fgn -> dyx
+fgn -> koj
+fln -> uye
+hkb -> csh
+nyn -> lmo
+eau (NEG) -> glb
+cdm (ADD) -> yjm
+cdm (ADD) -> iww
+tga (OR) -> hdu
+jwt (OR) -> ouk
+scf (OR) -> yrx
+hzk -> fzr
+puw (OR) -> dqw
+bsq (NEG) -> cby
+epl -> ayz
+epl -> fap
+gad (MUL) -> kyb
+gad (MUL) -> sdl
+wxx (AND) -> cqo
+wfc -> ynk
+wfc -> tdz
+ktd (OR) -> oyy
+iem -> qyc
+iem -> edw
+ivp -> ueu
+ivp -> swa
+hih (OR) -> xym
+qem (ADD) -> tep
+qem (ADD) -> sri
+vyl -> vsm
+exz (SPL) -> wuv
+exz (SPL) -> ixz
+ssu -> vbn
+adf (NEG) -> lgk
+qkh -> kzj
+qkh -> yoc
+oke (NEG) -> mmx
+mfs -> uez
+qia -> nwm
+rls -> zpv
+bfj -> yhy
+glf (NEG) -> mvd
+kpb -> wfc
+zhq (OR) -> ndq
+xqs -> bwm
+cby -> ses
+rap -> rfm
+rap -> xqs
+zhy -> onu
+zhy -> plh
+jny (NEG) -> now
+xjz -> bgl
+gby (NEG) -> dod
+axe -> sxi
+aey -> lit
+aey -> qot
+yyh -> amq
+wqa (SPL) -> oxx
+wqa (SPL) -> zrp
+kiy -> ttx
+hie -> egr
+ccw -> fol
+input -> xes
+lif (NEG) -> wjs
+bdl (NEG) -> lut
+sfv -> nvg
+sfv -> boz
+bnu -> wze
+jva -> iun
+pcm (NEG) -> fbb
+odc -> jjx
+odc -> olf
+wnp -> ncp
+wnp -> ziv
+jfn -> flo
+tpz -> apb
+tpz -> pan
+bzx (SPL) -> vyl
+bzx (SPL) -> saz
+agh -> iui
+asp (SPL) -> jut
+asp (SPL) -> oza
+gpn -> iwj
+gpn -> hqz
+blh -> ktd
+ize -> lue
+ize -> cfw
+vud -> fyr
+erh -> xcv
+sdg (AND) -> qqf
+wtx (NEG) -> mnf
+oxb -> tyh
+aev -> kpf
+fzx -> atn
+fzx -> fre
+htx -> blq
+egp -> dmn
+vtn -> mvk
+stg -> zix
+stg -> twh
+qzx -> wqa
+ekv -> ecu
+apt -> asp
+hdx -> mjh
+hdx -> kov
+yct (NEG) -> kbu
+ued (NEG) -> vwv
+gej -> uer
+qzh (AND) -> qjd
+otr (NEG) -> rqu
+aos -> lhb
+rfx -> etd
+rfx -> ucj
+wcf (NEG) -> szz
+ykj (NEG) -> fkh
+kmc (SPL) -> bjp
+kmc (SPL) -> fbr
+bmu -> bba
+qsv (NEG) -> jdb
+chi -> mtd
+sfu -> jva
+sfu -> upq
+dza -> ifk
+ixv -> jkb
+tck -> ebz
+tck -> eyt
+gse -> nbk
+qbl (OR) -> fgr
+lww -> gfa
+ypj (SPL) -> app
+ypj (SPL) -> att
+ojl -> lvq
+hhk -> vyd
+hhk -> eau
+dam (NEG) -> wko
+xye (NEG) -> djw
+pzs -> gqs
+umw (NEG) -> yhk
+mwa (SPL) -> xnq
+mwa (SPL) -> ssu
+lyw -> gyh
+lyw -> zqy
+yqm (MUL) -> rlp
+htg -> dxm
+htg -> ziy
+ktf -> gad
+czm -> rrc
+czm -> agc
+dxt (NEG) -> ykg
+uuc -> ygr
+qbx -> svo
+bno -> lrc
+ygy -> kcm
+qiw (OR) -> xhn
+qiw (OR) -> nnl
+sbp -> mkf
+hjm -> dgk
+vco -> ruv
+quo -> xgg
+quo -> gby
+krw (SPL) -> vmn
+krw (SPL) -> llm
+etd (SPL) -> lsa
+etd (SPL) -> dzq
+psq -> ozv
+psq -> ixq
+pon -> rdx
+eyj -> kbu
+bdv (NEG) -> dzp
+ncp -> ses
+wvg -> joo
+ves (OR) -> gxo
+anf -> hpv
+qvr -> hso
+knm (SPL) -> bar
+knm (SPL) -> qxf
+cgg (NEG) -> jyd
+puj -> ery
+rbo -> onz
+rxo -> qcb
+jys -> lwf
+doq (OR) -> rqg
+umn -> wyq
+vbx (NEG) -> ngv
+gxo (SPL) -> ngd
+gxo (SPL) -> tny
+ejk (NEG) -> rqu
+yqq -> pfo
+oxm (NEG) -> eyr
+lqv (NEG) -> syq
+zut -> qnv
+iab (SPL) -> eca
+iab (SPL) -> kcp
+irp -> jtw
+gws (NEG) -> xpd
+wtt -> der
+asy -> qcb
+fxi -> sxv
+cgv -> bgl
+rtl -> nfh
+rtl -> sac
+twk -> vha
+tph (NEG) -> maz
+wzn (OR) -> aam
+bqv -> vem
+auk -> ilw
+rvw (NEG) -> xrs
+mif -> xex
+ihf (SPL) -> bhy
+ihf (SPL) -> hww
+bia -> hpi
+bia -> dan
+pne (MUL) -> sbp
+zff -> kbk
+zff -> tdu
+qdg (OR) -> ybk
+oyr -> ssl
+mez -> tna
+nxg -> bbc
+mya (MUL) -> ftb
+xym -> epu
+xxd (OR) -> cun
+xxd (OR) -> ujy
+vmc -> lio
+yle -> qjv
+yle -> yaw
+dqt (NEG) -> lvc
+kff -> ldt
+kff -> adb
+izb (SPL) -> ccm
+izb (SPL) -> kgi
+gyh (OR) -> nty
+bpd -> ext
+xfv -> dgc
+qxr (ADD) -> gnd
+qxr (ADD) -> qvx
+qbi (OR) -> ofz
+kmh -> dko
+kmh -> geb
+zsb -> lwd
+qhc (OR) -> hcq
+lqj -> sry
+lqj -> fwc
+cty (NEG) -> hxm
+bpk (ADD) -> uhe
+aml (NEG) -> bzq
+toy (NEG) -> deu
+ghq (ADD) -> now
+aag (MUL) -> szf
+nvh -> zec
+cni -> adh
+cni -> qht
+atm -> lif
+wjs -> nls
+eff -> gxn
+zbi -> hat
+eak -> ipm
+fju -> hye
+cqo -> csf
+cqo -> puy
+red -> oyj
+ljb -> lld
+ljb -> uzz
+qyc (ADD) -> rqj
+gfa (NEG) -> lph
+hpu (SPL) -> vfn
+hpu (SPL) -> vlp
+msg (AND) -> txx
+frx -> tqo
+lvx (SPL) -> aos
+lvx (SPL) -> qyy
+llx (SPL) -> tcm
+llx (SPL) -> xhr
+ars (SPL) -> ebz
+ars (SPL) -> eyt
+txd (OR) -> qwh
+aje (OR) -> cdn
+xch -> oup
+dnv -> dqw
+hlx (SPL) -> ttc
+hlx (SPL) -> kxg
+tsg (NEG) -> khb
+tdz (MUL) -> ypd
+tdz (MUL) -> crr
+otg -> uus
+ojc -> vtc
+kuj (NEG) -> xjc
+axv (SPL) -> okt
+axv (SPL) -> bvg
+rde (AND) -> rcf
+eji (AND) -> suk
+grz -> atp
+nwm -> isp
+fbm -> kpn
+ero (NEG) -> yui
+ttl (ADD) -> ggj
+dxm -> ise
+dxm -> aag
+nka (SPL) -> oqk
+nka (SPL) -> hbe
+ppc -> jyi
+yvt -> eds
+kgb -> eff
+kgb -> xwo
+ldu (NEG) -> hvx
+rbc -> ehp
+rur -> lnn
+djp (ADD) -> xuv
+jam (AND) -> kio
+vhl (OR) -> vno
+gho (NEG) -> eap
+xbr (NEG) -> ows
+zyl (NEG) -> ggk
+ixz -> acf
+ubn (ADD) -> din
+xgu (NEG) -> eej
+rlp -> hxg
+fig -> jpp
+lwd -> pdt
+qvs -> kus
+ven -> qxn
+ven -> cjf
+qkm -> ery
+lio (OR) -> zqp
+lio (OR) -> xqf
+dnb (OR) -> aau
+pzr -> vir
+gxc -> jnu
+waq -> yab
+ckg (SPL) -> dew
+ckg (SPL) -> gts
+btu -> rce
+qvx -> cem
+bis -> iwy
+oqk (MUL) -> kzz
+aby (SPL) -> ntj
+aby (SPL) -> spo
+kqp -> qgb
+ijn (SPL) -> mid
+ijn (SPL) -> ccw
+tha (NEG) -> gqb
+uut -> sse
+epu (AND) -> joo
+laj -> jwm
+xja -> cmv
+dmn (SPL) -> hrf
+dmn (SPL) -> koq
+fap (NEG) -> vzr
+bwm (OR) -> jal
+rdy -> lju
+vdl (AND) -> jgs
+wfm -> oki
+wfm -> ymu
+aau -> irn
+lgs -> bzx
+pwa (SPL) -> zbu
+pwa (SPL) -> nhi
+rgx (ADD) -> lnk
+phw -> qfp
+bcj -> bvm
+eer (OR) -> pfj
+mmx -> fqj
+zgo -> nqg
+ayz -> vzr
+aip -> tie
+aip -> stg
+ctz (OR) -> rwz
+ctz (OR) -> jzq
+mdk -> yig
+mdk -> gop
+zwq -> qfp
+dcu -> rci
+dcu -> adr
+ahx -> kka
+rwm (OR) -> cim
+mkd (NEG) -> oat
+cpf -> zky
+bey -> nct
+sgb (MUL) -> ibn
+zra -> imd
+rlo -> hvg
+rlo -> uzf
+eap (OR) -> hkb
+eap (OR) -> way
+nkq -> vhl
+hbe (ADD) -> flq
+vro (OR) -> yhv
+qnw (NEG) -> bno
+wsr (NEG) -> yum
+der -> yqm
+duq -> yvq
+zuw (SPL) -> zpd
+zuw (SPL) -> clo
+ivs -> tba
+zav -> rdv
+dxx -> xgc
+gpd -> cmm
+azf -> ypx
+nmg (SPL) -> hjr
+nmg (SPL) -> jxq
+zvz -> jqt
+ytq -> dlh
+qnk (ADD) -> gaq
+ein -> mwe
+uzz -> icp
+svo -> llu
+plh (NEG) -> ylk
+ztd -> qkr
+cdx (MUL) -> hxu
+xlv (NEG) -> xth
+dyr -> bru
+rzz -> muq
+rzz -> adg
+guv -> hcq
+zzz (OR) -> shu
+ses (ADD) -> bdt
+nwe -> uav
+apb (MUL) -> vzh
+obp -> cru
+obp -> ecg
+xma (MUL) -> zyl
+eed -> pee
+kkd (NEG) -> rlb
+cgf (AND) -> ind
+wfz -> dbp
+wfz -> fmi
+cjj (AND) -> bbp
+tme -> msq
+aee (OR) -> ibr
+lej -> cfu
+ctg -> vha
+rxs -> iga
+zqd -> iur
+bss (SPL) -> crn
+bss (SPL) -> qbi
+zbd -> lbt
+ler (ADD) -> txd
+llu (MUL) -> ffz
+llu (MUL) -> ijt
+klv (MUL) -> xna
+klv (MUL) -> zgm
+lxu (OR) -> kmg
+qfl -> qab
+mks (NEG) -> tok
+kmg (SPL) -> qbl
+kmg (SPL) -> acb
+hdu -> mjz
+hdu -> lxu
+zll (ADD) -> shm
+may -> bdv
+may -> xog
+rhy (ADD) -> umd
+yoq -> uit
+lvw (NEG) -> jzv
+pqm -> eer
+xex -> sjo
+xex -> wxb
+kcv -> mhv
+ohe -> qyu
+vsb (OR) -> ehe
+fre -> uau
+hhl (AND) -> wav
+nbe (ADD) -> qwg
+emw (OR) -> xvi
+emw (OR) -> sxu
+vrh -> uao
+fgs (MUL) -> nyf
+way (NEG) -> jej
+yky (OR) -> olw
+jjx (OR) -> dxt
+wxg -> vfb
+msl (AND) -> xbd
+dps (NEG) -> jwf
+spo (ADD) -> szg
+qsz -> nka
+qsz -> wkh
+swc -> xwi
+nwt (OR) -> iul
+bjp -> uzx
+jjm -> pwa
+gmh (MUL) -> qpr
+ejh -> ibs
+ejh -> hfu
+mhz (ADD) -> rpf
+roj -> aev
+bbk -> qem
+ulu -> zhy
+iew -> wxx
+uml -> vjz
+onj (OR) -> tgx
+zzv (SPL) -> mmf
+zzv (SPL) -> wjx
+etv -> qsv
+etv -> lpe
+tyk -> nvw
+rce (MUL) -> qtc
+ntx -> xbr
+clo -> shm
+kkq (NEG) -> ann
+dyu -> ygm
+dyu -> sci
+hqr -> xgt
+xpc -> imt
+xpc -> isg
+txg -> bba
+dzq (NEG) -> jny
+xxa -> aee
+mut -> gdp
+zpd (NEG) -> kwy
+iwe -> jam
+llm (SPL) -> hhy
+llm (SPL) -> aje
+mai (ADD) -> ghq
+leb (NEG) -> rrv
+zqp -> vdt
+hvg -> faw
+xgc -> aik
+enz -> qjv
+enz -> yaw
+xrl (AND) -> sfk
+biy -> ztj
+biy -> rzp
+pgc -> fkl
+pgc -> rhm
+feu -> eec
+feu -> zzi
+ojw -> ajd
+ouo (NEG) -> nwy
+ofz -> krw
+dxw -> rkw
+kxf (OR) -> izb
+kxf (OR) -> teg
+xmk -> ypj
+bvn -> yle
+ixd (AND) -> kup
+ngp (NEG) -> dpl
+csg -> jfy
+qao (ADD) -> sth
+qao (ADD) -> mnn
+mwy (AND) -> fla
+mwy (AND) -> tkc
+nrz -> yvw
+ndq (NEG) -> cmv
+wyq -> fgn
+wyq -> kzk
+vyb -> dyr
+vyb -> fpp
+ibr -> gun
+cdq -> dny
+jzn -> kzp
+gih -> ubn
+xaz -> dll
+hud -> rzz
+sei -> ttl
+qsm (OR) -> cni
+qsm (OR) -> nff
+twt -> uyh
+adr (OR) -> mto
+gmf -> vqs
+ise (ADD) -> cqw
+ise (ADD) -> mmw
+ssk (SPL) -> mca
+ssk (SPL) -> dte
+qym -> jxa
+miw -> ext
+ows (AND) -> csm
+ows (AND) -> tga
+amu (NEG) -> zuw
+qhg -> fqq
+buj (MUL) -> tyk
+ext (ADD) -> xma
+ztq -> qhc
+ipm -> nqj
+dit -> ggf
+lof -> wzh
+lof -> mks
+arz -> ouo
+khj -> pwu
+khj -> kgw
+cnn -> cgs
+kzn -> mok
+kzn -> pne
+yhy -> lnk
+cun (SPL) -> eki
+cun (SPL) -> zio
+coh -> tyo
+imd -> ghe
+gxf -> fln
+gxf -> awo
+mvd (OR) -> jke
+mvd (OR) -> zag
+vct -> zip
+xia (ADD) -> tsy
+xia (ADD) -> xmp
+jyd -> zqd
+myz -> fyr
+rch -> onn
+hlv -> cdx
+oxu -> pjc
+uas (AND) -> cpc
+big (MUL) -> fhb
+hge (OR) -> jzn
+uqh -> rxs
+uqh -> tjx
+whu -> szz
+mki (AND) -> jpp
+zwi (NEG) -> net
+rrj -> nba
+ewf -> cmw
+wzh -> rsy
+pld -> fnb
+fqj -> njw
+bbr (AND) -> hvx
+lwq (SPL) -> fsq
+lwq (SPL) -> isi
+equ -> qip
+ida -> rdb
+rdx -> mwt
+rdx -> wmm
+zgy (OR) -> tlg
+mto (ADD) -> wxn
+fol -> fjl
+bru (ADD) -> qbx
+zae -> dca
+csm (OR) -> lgv
+hee (ADD) -> epd
+kmq -> ykl
+jss -> gpl
+jbt -> xgf
+sse (ADD) -> puw
+ntz -> ulm
+jjl -> gih
+uyh (MUL) -> cdm
+nbk -> lvr
+hgj -> zqc
+xba (OR) -> azq
+szx -> bey
+xuv (AND) -> keh
+xuv (AND) -> eqp
+agc -> iyu
+ggj -> nzt
+ggj -> sid
+yio -> apb
+yio -> pan
+dgz -> bah
+muv -> yzk
+yjp (NEG) -> bie
+nqj (ADD) -> vwp
+nqj (ADD) -> ojc
+sbk -> ttx
+ixy (AND) -> qzx
+ixy (AND) -> dwn
+qpb -> ltg
+nct -> lqr
+tmk (SPL) -> ukh
+tmk (SPL) -> gri
+wqf (NEG) -> ujg
+njj (SPL) -> llx
+njj (SPL) -> sud
+vbn -> qhc
+xeq -> gno
+xeq -> plt
+uzt -> uxt
+lpv -> vnd
+zgl (NEG) -> aee
+uqw (NEG) -> rbo
+cuj -> lrq
+kfx (AND) -> jam
+mco -> sdg
+ykr (OR) -> ltg
+isg (NEG) -> ubx
+tba (NEG) -> qvs
+ruv -> ulx
+jgp -> pcf
+npz -> ekl
+hmk (NEG) -> wnx
+ziv -> mxa
+yon -> xba
+scv -> bxu
+qiz (OR) -> sdg
+ajd -> pzd
+xem -> rtq
+dyx (OR) -> xxa
+zht -> olv
+esz -> gmh
+kfg -> cgo
+ubh -> jtu
+sid (NEG) -> qdg
+gun (OR) -> kmn
+gun (OR) -> frx
+znf -> fhm
+znf -> bnu
+wjw (NEG) -> btu
+ggq -> fcw
+ggq -> nyn
+eds -> rxv
+kla -> rce
+ruw -> epm
+mri -> ntn
+gts -> dxd
+chc (NEG) -> ggq
+qwt -> yiw
+qwt -> tkd
+koe (AND) -> ubn
+jsy (NEG) -> hux
+szs (SPL) -> mok
+szs (SPL) -> pne
+vzh (NEG) -> nrz
+gri (MUL) -> jyu
+rdb (OR) -> pmt
+alz -> cpa
+ntj (OR) -> ety
+xgg -> blh
+xgg -> sft
+hgs (SPL) -> hig
+hgs (SPL) -> bhd
+fkh -> mki
+fnv (NEG) -> btz
+gqb (MUL) -> khd
+gqb (MUL) -> kff
+xzf (NEG) -> bdl
+uej -> rur
+pwd (NEG) -> qkm
+ajq -> sqi
+ajq -> ogy
+mcq -> psx
+hsj -> qpr
+qcy -> xmk
+ato -> smw
+lhf (NEG) -> xks
+gxw -> nzo
+jwm -> qep
+iji -> wzb
+iji -> bge
+azq -> ful
+dvd -> lyz
+crn (OR) -> roa
+imr (SPL) -> lbg
+imr (SPL) -> htg
+mzz (NEG) -> kgb
+dot (SPL) -> dvs
+dot (SPL) -> qlj
+mxa -> tep
+mxa -> sri
+krs -> dnq
+krs -> zvh
+kgw (NEG) -> zkt
+fqq -> doq
+hom -> kzp
+mmp -> ykl
+cfu (OR) -> iyc
+cfu (OR) -> amu
+rpf -> uyh
+mfh -> bkz
+kcm -> xsz
+mmj -> zbi
+dca (OR) -> vza
+zkj (ADD) -> ivp
+mca -> arz
+frr -> etp
+frr -> rqz
+daq (SPL) -> hrf
+daq (SPL) -> koq
+izu -> kva
+izu -> ncv
+dut -> pqf
+fyr (OR) -> bha
+nlp -> yfc
+ugy -> vro
+ugy -> zlt
+uhn -> etv
+giu -> xma
+lgx (OR) -> llu
+xmp -> djp
+gkf -> whu
+dbc -> oyj
+rpj -> qsr
+btz -> mgr
+btz -> rls
+jkp -> iab
+srs -> ftm
+srs -> swc
+vxh -> hgs
+pxm (MUL) -> output
+tyo -> xhn
+tyo -> nnl
+njt (NEG) -> lxk
+ywm -> ezh
+ywm -> rle
+yoc -> xhz
+rxv -> yky
+wjx (SPL) -> hfw
+wjx (SPL) -> zxs
+uuy -> jho
+ddl -> lvc
+uer (MUL) -> ksi
+ect (AND) -> che
+zde (AND) -> tds
+spv (AND) -> thz
+oza (OR) -> dei
+oza (OR) -> ecw
+icf (NEG) -> hkd
+lhb (AND) -> ilc
+jsv -> okp
+leg (NEG) -> yml
+blk (OR) -> yim
+blk (OR) -> bqk
+scj -> dnv
+scj -> aby
+ycw (MUL) -> biy
+crm -> vzf
+tna (AND) -> rvb
+ulx -> fee
+xnz -> cnv
+gss -> nxq
+gss -> pzr
+yum (NEG) -> ncl
+vzt -> eer
+tad (SPL) -> hud
+tad (SPL) -> iei
+eyt (MUL) -> xab
+gef -> hza
+teg -> fju
+hws -> qiw
+dra (NEG) -> hcn
+bjs (NEG) -> bst
+uzx (AND) -> tha
+pft -> uqh
+fxk -> zgy
+eaj -> dcu
+rvb (NEG) -> khj
+oga (MUL) -> ayx
+ksn -> mxs
+ouk (AND) -> shw
+kzz -> fdd
+iep -> ekp
+iep -> mwg
+vqb -> hfq
+diq (NEG) -> ttd
+qfp (AND) -> ckw
+fcw -> qvq
+dqe (SPL) -> zvu
+dqe (SPL) -> xia
+uqy -> ili
+faw (OR) -> lgx
+faw (OR) -> mai
+wry (SPL) -> hwv
+wry (SPL) -> tea
+zlp -> tlg
+lju -> jqt
+yhv (ADD) -> yhf
+yhv (ADD) -> wqf
+zkt (NEG) -> cch
+roa (NEG) -> zvo
+nep -> ypw
+but -> qfl
+but -> dws
+yrx -> ivx
+qle -> cef
+lmo -> vzu
+yaz -> jys
+kbr -> gpw
+vqs (OR) -> qqz
+ylz -> zqf
+yjm -> wfa
+gei (MUL) -> iew
+xwi (OR) -> rkr
+xwi (OR) -> tmk
+dqs -> scf
+hla -> fgs
+hla -> tnz
+akg -> ytq
+zsm -> cim
+fmr (ADD) -> tmm
+pwq -> irp
+hww -> zde
+ptp -> cgv
+exl -> ufu
+ibx (AND) -> tna
+jjf (SPL) -> tpz
+jjf (SPL) -> yio
+suk (MUL) -> rhi
+yfe (NEG) -> nei
+apw -> ngl
+apw -> nbe
+fzr (OR) -> kad
+gjj -> gxw
+qxn -> gei
+xgt -> ykr
+xzk -> pzs
+xzk -> yso
+vtc -> guz
+nqr -> oba
+mit (NEG) -> bhs
+koj (MUL) -> zgl
+nzo -> rth
+dyy -> hge
+cmv (OR) -> vnw
+mjh (NEG) -> vvc
+iae -> red
+kpn (AND) -> lue
+kpn (AND) -> cfw
+yiw -> ecm
+fpp -> bru
+bij -> vfx
+bij -> lbh
+ueu -> moa
+ffz -> rmy
+jzq -> qnd
+iyc -> rrl
+znu -> qwt
+srn -> lio
+tge -> eht
+ypd (OR) -> fmm
+ypd (OR) -> ixc
+dvs (OR) -> hrk
+usp (ADD) -> iwj
+usp (ADD) -> hqz
+afy -> onb
+sxp -> jab
+sxp -> elo
+yho (NEG) -> qzh
+yvw -> wav
+dob -> laj
+dob -> gmf
+obs (NEG) -> ctg
+vfq -> emv
+fbr -> uzx
+nxq -> uwh
+dhp -> anf
+zbb -> rrj
+qtg -> ixd
+blb -> kpn
+uau (AND) -> ybk
+pvi (OR) -> xit
+qip -> dot
+qip -> npw
+nuf (SPL) -> rtt
+nuf (SPL) -> yho
+mok (OR) -> ymf
+hza -> vno
+lgk -> qpb
+jnu (OR) -> kdd
+jnu (OR) -> nkr
+lrq (OR) -> fgv
+lrq (OR) -> uev
+onw (NEG) -> lki
+qyu -> woq
+ijj -> esz
+vza -> vro
+vza -> zlt
+kup (MUL) -> scf
+fen (ADD) -> wnd
+sry (OR) -> usj
+loi (ADD) -> glk
+loi (ADD) -> srn
+uhe (SPL) -> psq
+uhe (SPL) -> agh
+yca -> cdy
+vsf -> svy
+vsf -> puz
+tpa (OR) -> kal
+vyv (SPL) -> jkp
+vyv (SPL) -> ikq
+eqp -> ykr
+ujy -> lih
+aam -> rhy
+vta -> ojp
+ymw -> aqg
+cfd -> pru
+cfd -> xgu
+qik (SPL) -> zmt
+qik (SPL) -> qid
+ijt (NEG) -> nwt
+wwk -> ajj
+ydp (NEG) -> otv
+yml -> mcq
+kva -> ahx
+onz (AND) -> rrv
+wwd -> pjm
+qtc -> slt
+rqz -> wfm
+gbo -> wiv
+tqo -> fjy
+tqo -> mhz
+hhy (MUL) -> ngf
+hhy (MUL) -> wxg
+rlw (NEG) -> svq
+csh -> lut
+ivx (AND) -> tck
+ivx (AND) -> kdx
+acf -> zvz
+eec -> cpo
+ygm -> qsz
+ygm -> amo
+xcv -> odv
+xcv -> njv
+bae (SPL) -> utb
+bae (SPL) -> uuc
+wbs -> njt
+cpk -> ato
+cpk -> vgs
+syq -> naz
+bdt -> zza
+njv -> qxr
+njv -> dta
+ehf (SPL) -> big
+ehf (SPL) -> eng
+iyu (OR) -> ele
+ubk -> lgx
+ubk -> mai
+nwy -> uvj
+skh (NEG) -> tyh
+rmj -> dmz
+rmj -> naw
+ssf -> cdm
+vqu -> vqb
+vqu -> toc
+ebz (AND) -> nxm
+pxj (MUL) -> sgv
+yil (OR) -> crn
+yil (OR) -> qbi
+mnn (SPL) -> oad
+mnn (SPL) -> emw
+ciz (ADD) -> spv
+xrs -> lvw
+vxo -> obp
+qsr (OR) -> yaz
+qsr (OR) -> wxh
+bhy -> zde
+hrk (NEG) -> utw
+rdk (SPL) -> otz
+rdk (SPL) -> gwg
+mhv -> yci
+zag (OR) -> szs
+dqq -> rcx
+fts (NEG) -> txd
+aid (OR) -> kqp
+aid (OR) -> ojw
+blq -> jke
+blq -> zag
+hpv -> wna
+oai (NEG) -> bvn
+bvq (MUL) -> ulo
+fgv (AND) -> zlp
+thz (AND) -> dlt
+xes -> rtl
+xes -> zql
+ikn -> oxx
+ikn -> zrp
+vbr (NEG) -> auy
+ozi (NEG) -> rch
+lfh (NEG) -> ghm
+gfm -> tio
+gfm -> eop
+jlm -> cdp
+kph (SPL) -> iem
+kph (SPL) -> wet
+lbh -> zav
+fmi (AND) -> jod
+ycn -> bij
+lfa -> ozi
+mss (MUL) -> kqe
+ufy -> kmc
+ymf -> vbx
+onv (NEG) -> phw
+ulp (NEG) -> zwi
+gnx -> bwm
+qwg (NEG) -> niz
+nng -> hmk
+tqg -> epl
+zhp -> afe
+wfa (NEG) -> qsr
+jtv -> grz
+kwd -> pdt
+lue (AND) -> tds
+sdl -> gbr
+jyi -> bos
+kad -> pns
+uwh (SPL) -> qqs
+uwh (SPL) -> vad
+qxy -> xno
+qxy -> rdz
+sdm (NEG) -> wbs
+afp -> gdd
+buh -> xsb
+ttd -> zlb
+xod -> lph
+oyj (MUL) -> acm
+oyj (MUL) -> gbo
+gah (NEG) -> rrl
+wju (AND) -> kkd
+jzv -> gpw
+ixc -> ehp
+pfn (MUL) -> auc
+jyg -> xyr
+flx -> etr
+pkm -> vdt
+nkr (OR) -> vxi
+uul (MUL) -> lhf
+ese -> xda
+fjy (ADD) -> twt
+khd -> xei
+khd -> ujl
+haj -> xjz
+meg -> obl
+izy -> mmp
+pmt (ADD) -> zut
+pmt (ADD) -> ejh
+sxv -> vsb
+fsq -> vqs
+lit -> crm
+lit -> iwe
+umd -> fdp
+kus (NEG) -> duq
+jpp (MUL) -> udv
+qox (NEG) -> fey
+mlb -> kla
+otu (NEG) -> qtb
+ptc -> klr
+fla -> jbt
+zrp (AND) -> wjw
+zrp (AND) -> mlb
+xac -> jjy
+sfk (NEG) -> roj
+cef -> dvd
+qot (NEG) -> kfx
+bqq -> eaj
+sfd -> tvl
+rjq -> xsz
+mde -> dps
+kdx -> hqd
+bvg (ADD) -> pwq
+bvg (ADD) -> zim
+hfw (OR) -> oqt
+usj -> enx
+usj -> zew
+kkn (NEG) -> uqp
+gwg (MUL) -> oqp
+nom -> bqq
+cbd (OR) -> qox
+ecw -> vta
+ssc (SPL) -> ohe
+ssc (SPL) -> dit
+shm (MUL) -> dfk
+jry -> hgj
+zmt -> msl
+zvo -> jgd
+zvo -> ajq
+ftb (OR) -> rod
+kcr -> okt
+kcr -> bvg
+sni (AND) -> rvd
+tmm -> ulp
+hpy (AND) -> yug
+nyq -> fuo
+nyq -> pqi
+fff -> niy
+rcd -> loi
+rcd -> krl
+hvx (AND) -> kqg
+hvx (AND) -> ves
+pjo -> zdx
+pjo -> nue
+hmf -> ttc
+hmf -> kxg
+pyz -> ynk
+pyz -> tdz
+mxs -> pvi
+vwv -> eak
+fhb -> ddl
+rrc (NEG) -> iyu
+pdt (AND) -> emv
+jwf (OR) -> wwd
+jwf (OR) -> atm
+brr -> hkd
+lki (MUL) -> eed
+cgq -> ulu
+hso (OR) -> wyf
+jfy -> vzt
+wnx -> vqu
+wnx -> qzg
+oas -> xnm
+oas -> afp
+qvq -> vzu
+lnn (NEG) -> amt
+idb -> tgi
+cqi (NEG) -> akg
+dpl -> sfo
+ssl -> vsm
+wfx (NEG) -> pqm
+ius (NEG) -> lgs
+hed -> ale
+xda -> amx
+qqf -> ooh
+fvd -> ttl
+awm (NEG) -> lww
+mtd -> kbr
+aph -> psn
+wjl -> ywz
+wjl -> uqf
+jab -> sld
+jab -> hpy
+nfl -> coh
+rjx -> xya
+rjx -> ywm
+kwn -> scj
+flq -> azb
+flq -> bml
+voz -> tme
+uev (OR) -> zgy
+ybk (AND) -> naz
+lut (ADD) -> rgx
+xnq -> ztq
+zjr -> yul
+zjr -> xpc
+rqj -> mco
+ecj (OR) -> ojp
+wne -> djs
+szf -> vdl
+jke (MUL) -> kzn
+rtt -> qzh
+qzg -> uwz
+geb -> jyg
+bhd -> ymw
+bhd -> kzx
+chq -> zzz
+btr -> mom
+tcm -> mht
+fjl (AND) -> soh
+dod (NEG) -> qep
+ess -> wcf
+yid -> bdz
+jal (OR) -> hru
+eng (OR) -> fde
+eng (OR) -> udi
+ynu -> iax
+ynu -> boh
+yfd -> slt
+yhn -> jjm
+vhn (ADD) -> big
+vhn (ADD) -> eng
+kcf -> hzk
+kcf -> kep
+yif (NEG) -> qtx
+yfc -> mox
+vzr (MUL) -> zbb
+vzr (MUL) -> uha
+aqg (OR) -> kyn
+uzf -> ubk
+ojp (ADD) -> ekl
+hoc (NEG) -> uml
+bba (OR) -> awy
+gth (SPL) -> oga
+gth (SPL) -> srd
+vfj -> bqv
+bvb -> csm
+bvb -> tga
+dlb -> pfj
+glk -> guv
+glk -> cjv
+cpa (OR) -> gun
+amq -> uut
+amq -> fie
+hat (AND) -> onm
+xqf (NEG) -> tzu
+yzk -> mde
+ccm -> cgx
+xqb (NEG) -> hmf
+bar -> jjl
+qqz (OR) -> ufy
+jej -> cct
+zvg -> qiz
+zvg -> ghk
+yve (NEG) -> ppc
+eun -> ldu
+gzp -> boj
+uet -> wfx
+jut (AND) -> nhz
+mln -> ful
+amt -> egv
+ijl (MUL) -> dck
+wkn -> kkn
+wdk (NEG) -> bcj
+rqg -> xqk
+wsj (NEG) -> mya
+hye -> asy
+hye -> rxo
+ibs -> qsm
+uqp -> klv
+unt -> nfu
+tkd -> zff
+ggk -> srs
+kqe -> dyu
+hcn (OR) -> pxm
+ric (NEG) -> mwy
+nue (NEG) -> xxd
+qeg -> cdx
+ios -> cst
+dmz (SPL) -> leb
+dmz (SPL) -> rya
+mmw -> vdl
+dgk (AND) -> pec
+oxk -> sld
+oxk -> hpy
+wnd (NEG) -> gra
+rcx -> iah
+icp (SPL) -> myh
+icp (SPL) -> yla
+ygr (NEG) -> afy
+lzh (AND) -> rwm
+cqw -> rmi
+att -> oju
+zvu (AND) -> bae
+yei (NEG) -> dgz
+jjy (MUL) -> uhn
+ery (ADD) -> qgb
+oju (OR) -> dqs
+oju (OR) -> dxx
+xyr -> ull
+xyr -> sgb
+lih (ADD) -> onj
+jtw -> jdf
+xhk (OR) -> agi
+upg -> lih
+hxg -> ven
+hxg -> ksn
+mmf -> ltl
+djs -> qct
+djs -> zjr
+vfx -> upg
+oya -> cgg
+npw (SPL) -> dvs
+npw (SPL) -> qlj
+qht -> kdd
+qht -> nkr
+niz (NEG) -> bgg
+ngl (AND) -> wdk
+uwc (MUL) -> tps
+yfg (NEG) -> wyf
+abk -> szg
+hjo -> ypd
+hjo -> crr
+fdd -> xky
+afe -> exz
+afe -> tfx
+upx -> gyh
+upx -> zqy
+nyr -> cnt
+zqf (MUL) -> ese
+agi -> jtv
+gks -> ckv
+qnv -> qsm
+ykg -> ngp
+rtb (NEG) -> zzz
+dlt (ADD) -> xac
+ttx (OR) -> czo
+vqp -> vhl
+ehp (ADD) -> bjs
+tkg -> lff
+ync (AND) -> rgr
+ldt -> xqb
+vdd -> snb
+vdd -> ehf
+xks -> mfs
+rnk (NEG) -> dca
+bnh -> sdm
+fxr -> bzs
+vev (SPL) -> yig
+vev (SPL) -> gop
+cdp (AND) -> onz
+hxu -> bfj
+gpw (MUL) -> fff
+kzj (NEG) -> xhz
+azb (ADD) -> izg
+bxu (AND) -> cgq
+rqu (AND) -> lol
+rqu (AND) -> odc
+sft -> ktd
+vsd -> hso
+lgv -> mjz
+lgv -> lxu
+exp -> udv
+hrf (OR) -> rhy
+xhn (ADD) -> awm
+msq -> gra
+tlk (SPL) -> fjy
+tlk (SPL) -> mhz
+pwy (MUL) -> ale
+qtb -> ybf
+rtq -> gad
+irn (OR) -> xja
+aft -> izu
+qxf -> xgo
+ngf -> yas
+tkj (AND) -> tsl
+tkj (AND) -> txg
+zoo -> pwy
+jyo -> xnw
+lff -> etj
+lff -> dqe
+lyr -> mya
+bnm -> pon
+bnm -> tvv
+bbp -> hgv
+zof -> qtd
+uoh (NEG) -> kfg
+ziy -> ise
+ziy -> aag
+acb (AND) -> leg
+soq (OR) -> pxm
+qeu -> cch
+kah -> rmi
+gxi (NEG) -> jwt
+bgu -> cbd
+bgu -> cjj
+jdb -> ioa
+jgl -> aey
+jgl -> ntz
+wtk (OR) -> ncl
+vbv -> jcd
+kck -> uqw
+kck -> jlm
+fwg -> azb
+fwg -> bml
+irr -> dme
+tjp -> awy
+mrl (OR) -> dob
+kcc -> spv
+szg (ADD) -> nkq
+kky (MUL) -> mwa
+kky (MUL) -> rcd
+wbo -> vww
+yiu -> xzk
+hgv -> qdo
+kll -> gfm
+isp -> wtk
+udi (NEG) -> wsj
+eop -> zak
+xvx (AND) -> vhn
+imu -> vxm
+paq (AND) -> nxg
+paq (AND) -> ljb
+yhf -> dam
+piu (MUL) -> yfp
+dlh -> sfu
+cey -> hih
+cey -> qnk
+udc -> yim
+udc -> bqk
+jgd -> yvy
+zql -> upx
+gbr (MUL) -> oxk
+eni -> apw
+yls (AND) -> szx
+pfr (MUL) -> daq
+pfr (MUL) -> utv
+mkf (OR) -> ipi
+rod (ADD) -> cgp
+rod (ADD) -> bvb
+yvy -> pcd
+yvy -> qxy
+vem -> suk
+hle -> isn
+nuh -> equ
+die (AND) -> lki
+fuo -> ubh
+hfq (OR) -> miw
+nhh -> foh
+nhh -> pgc
+uye (ADD) -> pxk
+uye (ADD) -> vvy
+ozv (NEG) -> bbr
+uav (NEG) -> egp
+qcb (AND) -> pxk
+qcb (AND) -> vvy
+elw -> zpn
+elw -> hoc
+act (NEG) -> ouk
+yla (SPL) -> nii
+yla (SPL) -> utr
+odx (NEG) -> ivs
+kqg (OR) -> msg
+kqg (OR) -> dnb
+mwg -> eln
+eto -> bos
+nww (ADD) -> jhm
+nww (ADD) -> imp
+goz -> jdf
+wet -> qyc
+wet -> edw
+utw (SPL) -> elu
+utw (SPL) -> nhh
+shg -> ouu
+jxq -> wtx
+tkc -> umn
+tkc -> glx
+erj -> pxr
+oec (SPL) -> gws
+oec (SPL) -> xfv
+dta (OR) -> ssf
+zzi -> iag
+isj (NEG) -> jry
+rhu (AND) -> yjp
+guz -> oad
+guz -> emw
+xjc -> ntx
+mnj (NEG) -> eph
+vgm (NEG) -> uez
+app -> oju
+tfx -> isj
+yim (AND) -> gkf
+yig (MUL) -> ibx
+hqd -> itv
+rkw -> lej
+jdf (AND) -> wau
+jdf (AND) -> cgf
+ynk (AND) -> hjo
+mht -> mss
+mht -> tpa
+bzs -> req
+flo -> mld
+fee -> oxu
+fee -> pft
+jtg -> axu
+iei -> icf
+nau -> nqr
+ztj (AND) -> yon
+ioa (OR) -> rap
+uin -> toy
+pcf (NEG) -> eap
+gnd -> uuy
+vww -> jum
+cim (MUL) -> uer
+ypx (SPL) -> rci
+ypx (SPL) -> adr
+crr (AND) -> rbc
+rmy (MUL) -> xhk
+tgi (NEG) -> xaz
+pnx -> hai
+pnx -> ida
+jcd (MUL) -> ect
+jcd (MUL) -> kky
+iah -> ctz
+nxd -> xvx
+maz -> zsd
+maz -> qpl
+elu -> fup
+elu -> zoo
+yaw (OR) -> vrz
+zuf -> gei
+oqt -> dme
+eyu -> hws
+rdz (NEG) -> mgh
+psn -> smv
+udv (AND) -> gdd
+xvi -> msm
+nlh -> pym
+saz (SPL) -> vuk
+saz (SPL) -> krs
+ywz -> ler
+btk (SPL) -> gii
+btk (SPL) -> znu
+ywq -> rdw
+puz -> zwv
+puz -> cdt
+vad -> twk
+lpe -> kll
+etr -> wxc
+rqw -> amx
+oki -> fsk
+itv -> ciz
+qnn (NEG) -> hpu
+wyf (OR) -> fen
+wyf (OR) -> swf
+tio (SPL) -> gnx
+tio (SPL) -> olh
+adb -> uvu
+lld (SPL) -> ios
+lld (SPL) -> ctt
+tds (ADD) -> xnz
+mzq -> vbr
+bbc -> bia
+bbc -> egs
+nvw -> xfh
+cgx -> kmq
+tyh (OR) -> fxk
+tyh (OR) -> mkd
+vxi (AND) -> yif
+tev (AND) -> gqb
+klg (SPL) -> fen
+klg (SPL) -> swf
+vfn -> xdh
+lrf -> ect
+lrf -> kky
+qpr (OR) -> lqn
+qpr (OR) -> fts
+dll (NEG) -> rtb
+ecu -> cwu
+pee -> vdp
+rzb -> ygy
+xhr -> lrf
+rmi (ADD) -> qnw
+uxt -> ein
+mnf (NEG) -> dlt
+iun -> hqw
+iun -> lpv
+cru -> gve
+qct (SPL) -> pfn
+qct (SPL) -> paq
+ggf -> cfu
+azu (OR) -> npz
+zko -> ptp
+zko -> haj
+pfj (MUL) -> bpk
+ujd -> hih
+ujd -> qnk
+onm -> mss
+onm -> tpa
+bgl (AND) -> lwf
+dwn -> cdq
+qwr -> hee
+ltl -> irr
+fnb -> rzb
+fnb -> nmg
+xnw (SPL) -> idb
+xnw (SPL) -> nlh
+isi -> jxz
+fwc (MUL) -> enx
+fwc (MUL) -> zew
+okp (OR) -> tod
+dko (NEG) -> wbo
+nff -> jnu
+pjc -> zgo
+htb (SPL) -> wzg
+htb (SPL) -> zei
+zip -> bzq
+keh -> bnm
+rmb -> gva
+rmb -> kco
+ghk (OR) -> lxr
+gdp -> gej
+qid (NEG) -> msl
+bha (NEG) -> gve
+uus (SPL) -> qxr
+uus (SPL) -> dta
+mgh -> iae
+qkr (NEG) -> mwy
+iki -> jal
+uxs -> rhu
+uxs -> tev
+cmw -> vda
+pru -> iud
+xna -> gng
+mld -> dlb
+kdd (MUL) -> vxi
+dxn -> xba
+awo -> uye
+awy (OR) -> koe
+cwu -> jwf
+reg (NEG) -> hhl
+shw -> dza
+adh -> oke
+dte -> kah
+cmm (NEG) -> ruc
+fda -> pjp
+zlv -> puw
+qlj (AND) -> ewf
+zxq (OR) -> koe
+zzt -> xvx
+yab -> kmu
+pku (NEG) -> yky
+hux (MUL) -> sxg
+egr (NEG) -> xlv
+naz (ADD) -> ztt
+psx -> hee
+ojn -> wry
+ojn -> tfa
+ajj -> otz
+ajj -> gwg
+aol (NEG) -> cmk
+ghe -> kmh
+aqh -> teq
+boj -> yhk
+mox -> qwx
+toc (NEG) -> hfq
+pwp -> ffg
+xpd -> blk
+xpd -> ycw
+nba (MUL) -> mif
+nba (MUL) -> nwe
+mgr (NEG) -> dhp
+xdh -> bxu
+mjz (AND) -> owd
+mjz (AND) -> bsi
+vjz -> eia
+vjz -> ptn
+zjb (NEG) -> qhg
+atn -> uau
+dan (AND) -> dqc
+myq -> tud
+rbt (NEG) -> sua
+vuk (SPL) -> wiq
+vuk (SPL) -> tkj
+fez -> nom
+gtk -> auk
+gaq (MUL) -> epu
+sth -> lqv
+kcp -> wod
+kcp -> rxc
+rbs -> bbr
+wxc (NEG) -> isn
+fdp (ADD) -> iep
+fdp (ADD) -> vrh
+rmt -> vsf
+btn -> fjl
+kal -> mfh
+nlg (NEG) -> psb
+kmu -> tqg
+cdn (AND) -> ijl
+ipw (NEG) -> dbc
+swf (OR) -> oas
+ibj -> pmt
+pbk (SPL) -> xeq
+pbk (SPL) -> jsy
+iwj (OR) -> xrc
+yfp -> ptc
+ymu (NEG) -> ego
+smw -> sfd
+ujg -> oga
+ujg -> srd
+row (NEG) -> mlk
+vno (MUL) -> lqj
+pxr -> gse
+khb (NEG) -> eji
+krl (OR) -> vmc
+krl (OR) -> qle
+onb -> hjm
+fhm -> vev
+fhm -> mdk
+uwe -> ijj
+mrb -> ztj
+mrb -> rzp
+req -> meg
+eca -> lfa
+cgo -> soq
+ghm -> vtn
+tjx -> wkn
+tjx -> xkm
+lxr -> erh
+ikk -> hat
+ale (OR) -> sgv
+ixq -> zkj
+iul (NEG) -> ubg
+fra (SPL) -> ixy
+fra (SPL) -> zxq
+iax -> btr
+njw (MUL) -> bnh
+jod (MUL) -> ibf
+gli (NEG) -> nuh
+sri (ADD) -> zjq
+tdu (NEG) -> ycn
+vrz -> gda
+vrz -> pwp
+qgb (MUL) -> qbl
+qgb (MUL) -> acb
+cng -> cdp
+edw (AND) -> zvg
+mzb -> hfw
+mzb -> zxs
+yue (SPL) -> ckg
+yue (SPL) -> fxr
+jxa -> zra
+jvr (MUL) -> gth
+fde (NEG) -> lyr
+qyf -> msm
+wzg -> tph
+fmx (NEG) -> lrq
+jyu (NEG) -> okp
+yul (NEG) -> yvz
+bge (NEG) -> mrl
+qjv (AND) -> oya
+ukh (AND) -> jsv
+lyz -> enz
+bie -> mkf
+wxn -> dzf
+vdt (MUL) -> yvt
+olw (NEG) -> fnv
+pag (SPL) -> rdk
+pag (SPL) -> jyo
+xwo -> lkq
+qqs -> bcr
+qqs -> uzt
+wav (OR) -> hie
+iur -> feu
+uit -> qwr
+oad (ADD) -> qyf
+gjn -> nuf
+qwx (SPL) -> kxf
+qwx (SPL) -> bvq
+ntn (NEG) -> gxn
+qdo (ADD) -> mzb
+sci -> cap
+mmi -> pik
+azt (SPL) -> alz
+azt (SPL) -> pfb
+xbk -> axv
+xbk -> imu
+pec -> zwv
+pec -> cdt
+ibf (NEG) -> qeb
+ubg -> vtt
+vnw (MUL) -> vco
+niy -> wza
+cpc -> doq
+rth -> mzq
+lqr -> bxy
+gdd (ADD) -> rwm
+elo -> flx
+puy (NEG) -> nqj
+txx -> irn
+hkd (ADD) -> wdo
+msz -> hlx
+ufu -> fda
+ufu -> mri
+bst -> bss
+jgb (NEG) -> pnx
+sac -> fxi
+sac -> shg
+fie -> zlv
+yvq -> sry
+yvq -> fwc
+egs -> hpi
+egs -> dan
+ckw -> uao
+upd -> ekv
+cct -> rgx
+onn (NEG) -> ikk
+zwv (OR) -> qcy
+smv (NEG) -> hcn
+pjm (ADD) -> vnw
+rsy (NEG) -> yil
+moa (OR) -> ogz
+rmu (NEG) -> hgb
+zei -> msg
+zei -> dnb
+xit -> wxx
+dew (NEG) -> qnr
+xwh (OR) -> gph
+fey -> qdo
+zxs (OR) -> aip
+bhs -> mki
+pqf -> chq
+ncu -> qtd
+oat -> sei
+oat -> fvd
+owd -> lfh
+iwm -> jcd
+tny -> zhq
+klr -> cpo
+gra (OR) -> lzh
+ogz -> nep
+shu -> mit
+shu -> ykj
+odn -> uov
+lnk (OR) -> odn
+lnk (OR) -> czm
+kyb -> gbr
+din (SPL) -> sni
+din (SPL) -> cbq
+ayx (ADD) -> vxo
+ucj (SPL) -> htb
+ucj (SPL) -> iow
+plt -> ejk
+plt -> otr
+tod -> qnn
+pfb -> cpa
+ikq -> mcx
+woq (NEG) -> gah
+iui (NEG) -> zkj
+bzo -> gaq
+imp (MUL) -> tsg
+imp (MUL) -> vfj
+soh -> zzt
+soh -> nxd
+svy -> tad
+svy -> rue
+rya (NEG) -> zsb
+ibn -> rek
+ibn -> oyr
+jkb -> unt
+vzf -> pwd
+vzf -> zyo
+wdo (MUL) -> ixd
+rwz -> rvw
+ooh -> iyj
+ijc -> awq
+rgr -> qxw
+njm -> zcp
+koq (ADD) -> bnr
+bkz (MUL) -> cap
+nxt (NEG) -> taa
+odv -> roh
+fkl -> pxj
+ruc -> rbt
+zec -> dgk
+utr (ADD) -> rbs
+xya -> ixv
+dzp -> rhu
+dzp -> tev
+jum (SPL) -> ull
+jum (SPL) -> sgb
+nhz -> azu
+nhz -> ecj
+ctq (SPL) -> nii
+ctq (SPL) -> utr
+snb -> hux
+ctt (SPL) -> vyb
+ctt (SPL) -> abt
+vda -> blo
+vda -> oec
+wll (NEG) -> jch
+xbd -> uwe
+sqi -> xch
+rnx -> gxi
+mfo -> oai
+psz -> gtk
+tzj (NEG) -> blb
+zky -> hdx
+kio (NEG) -> aid
+ekl (AND) -> btn
+ekl (AND) -> zhp
+zqy (AND) -> vsb
+utv -> vax
+jka -> mfo
+czo (OR) -> jvr
+qac -> qao
+qnr (SPL) -> ojl
+qnr (SPL) -> kiy
+bpx -> gli
+gqs (ADD) -> hqr
+gqs (ADD) -> adf
+vyd (NEG) -> gjn
+sld (ADD) -> cpk
+slt (OR) -> ngl
+slt (OR) -> nbe
+deu (AND) -> ipw
+deu (AND) -> yue
+vxm (NEG) -> ioa
+zcp (OR) -> gjj
+qpl (NEG) -> buj
+auy (SPL) -> ntj
+auy (SPL) -> spo
+yze (ADD) -> qai
+mid -> hsj
+mid -> wjl
+wko -> ayx
+myh -> rlo
+egv (AND) -> xem
+jmp -> jtu
+qeb -> abk
+swt -> lde
+uqf -> ler
+vpy -> skh
+vax -> onv
+ann -> mvk
+uha -> nba
+hig (NEG) -> cjy
+pwu -> qeu
+ypp -> jvr
+ylk -> bzo
+ylk -> ypq
+pcd -> cdn
+cap (OR) -> vdm
+cap (OR) -> cfd
+rrl (ADD) -> qra
+vvy (MUL) -> frr
+adg -> wdo
+xkm (NEG) -> tge
+bvm -> zll
+emv (AND) -> yfg
+tnh -> bbk
+tnh -> cvx
+cdy -> fyc
+cdy -> xbk
+kpz (OR) -> pwj
+kpz (OR) -> aph
+lvc (OR) -> ftb
+oex -> rmt
+nbo -> hhl
+cgc -> yfd
+xei -> jgb
+vir -> obs
+nvg -> gpn
+ngv -> yls
+ngv -> wju
+ilc -> ixy
+ilc -> zxq
+aik -> ivx
+sua -> yei
+ged -> ync
+ele (OR) -> cqi
+est (NEG) -> rmy
+oiv (SPL) -> plq
+oiv (SPL) -> qac
+psb (NEG) -> gqs
+gop (MUL) -> ibx
+rcf -> ctq
+air -> zcp
+gvo -> pbk
+gvo -> vdd
+upq -> aol
+wmm -> pcm
+pfo (NEG) -> azf
+ieu -> ele
+xrc -> hom
+jhm (OR) -> cng
+jhm (OR) -> rmj
+llc -> fra
+hqa -> pld
+hqa -> ars
+lqn (NEG) -> gvo
+vsm (AND) -> wiq
+vsm (AND) -> tkj
+lrc (NEG) -> mnj
+xsb -> xod
+xsb -> ijn
+otv (NEG) -> faw
+spq -> yls
+spq -> wju
+zew (MUL) -> vuy
+csf -> oiv
+bgg -> zll
+isn (OR) -> yca
+qra -> kwy
+iyj -> nxt
+iyj -> mmi
+ezs -> wfz
+hai -> ibj
+lol -> jjx
+lol -> olf
+xth (NEG) -> gzp
+qtx -> nec
+auc (NEG) -> exp
+dqw (MUL) -> ety
+kco -> zuf
+cpo (OR) -> jfn
+ehe -> jss
+ehe -> ric
+qai -> nul
+tok -> yil
+fyc (NEG) -> kcr
+sxg -> dqt
+gve (MUL) -> yqq
+ykl (ADD) -> btk
+rzp (OR) -> dxn
+dme (MUL) -> uwc
+rhi -> vfq
+zim -> xmb
+cch (AND) -> bpx
+tie -> uwc
+ifk (MUL) -> gxc
+now (ADD) -> nwt
+bqk (OR) -> ess
+lvr (SPL) -> diq
+lvr (SPL) -> rmb
+zza (SPL) -> ued
+zza (SPL) -> imr
+sxi -> nfl
+kov -> ktf
+iud -> wwk
+xky (NEG) -> kck
+oxx (OR) -> nau
+fup -> pwy
+ulo -> mwe
+bay -> nbo
+bay -> reg
+ili (NEG) -> yqm
+wna -> pfn
+wna -> paq
+naw -> eji
+zsd -> buj
+cfw (OR) -> hge
+msm (AND) -> cbd
+msm (AND) -> cjj
+wod -> ero
+lvq (AND) -> czo
+xgf (ADD) -> row
+xgf (ADD) -> hjd
+hcq (OR) -> ync
+ulm -> kfx
+zyo (NEG) -> puj
+kgi -> izy
+sfo -> wll
+sfo -> pey
+yso (NEG) -> chc
+glb (SPL) -> voz
+glb (SPL) -> klg
+iwy -> zzv
+bzq (OR) -> ncu
+sgv (OR) -> jvh
+dzf -> kgx
+amo -> nmn
+jxz (NEG) -> qqz
+nfp (NEG) -> jgl
+xab -> ciz
+epm (NEG) -> giu
+qtd (OR) -> epd
+jch (NEG) -> kpz
+blo (NEG) -> cnn
+glx -> kph
+imt -> rde
+hqz (MUL) -> kup
+nnl (AND) -> buh
+olf (OR) -> rod
+ksi -> upd
+ksi -> muv
+kzk -> nyr
+ngd -> zhq
+rrv (OR) -> kwd
+kpf -> kwn
+dny -> sni
+dny -> cbq
+zjq -> glf
+zjq -> htx
+nfh -> lyw
+zqc -> die
+dws -> qab
+sto -> uvu
+enx (ADD) -> vuy
+bml (AND) -> nww
+yhk (OR) -> uas
+eph (SPL) -> zvu
+eph (SPL) -> xia
+vuy (AND) -> znf
+wza -> quo
+rdw -> eql
+rdw -> iek
+uao (OR) -> eln
+oqp (MUL) -> rjx
+jvh (NEG) -> mrb
+xog -> uxs
+qwh -> vhn
+obl -> ypp
+kgx -> nng
+ttc (AND) -> rdb
+tsy -> djp
+gii -> qia
+mvk (OR) -> zof
+lbg -> ssk
+teq -> yiu
+qxw -> pku
+dgc (SPL) -> blk
+dgc (SPL) -> ycw
+mtt -> dyy
+ind (AND) -> cty
+sxu (NEG) -> bgu
+nhi (NEG) -> mtt
+etp -> wtt
+etp -> uqy
+vha (MUL) -> qfi
+xqk -> iji
+xqk -> wsr
+nty -> kax
+nty -> uul
+okt (AND) -> aid
+muq -> usp
+kmn -> otg
+rxc -> ssc
+cmk -> vnd
+rdv -> onj
+rci (OR) -> mto
+wxb (SPL) -> pfr
+wxb (SPL) -> wzn
+szz (OR) -> mln
+rfm -> elw
+rfm -> pkl
+onu -> cey
+onu -> ujd
+rvd (MUL) -> cgc
+pxk (ADD) -> plg
+nfu -> xwh
+ypw -> pjm
+xcy (SPL) -> brr
+xcy (SPL) -> yfe
+plq (NEG) -> fzx
+ety (OR) -> gef
+ety (OR) -> vqp
+ubx (NEG) -> bpk
+pzd -> wau
+pzd -> cgf
+ltg (AND) -> aft
+ltg (AND) -> xtk
+vgs -> kuj
+hpi (AND) -> zsm
+ffg (NEG) -> mzz
+ckv -> nyq
+vtt -> jgp
+vtt -> nvk
+cjy -> aqg
+ful (OR) -> rlw
+dbp (OR) -> jod
+tnz (OR) -> tzj
+zpv -> wne
+nqg -> jjf
+kwy (MUL) -> loi
+kwy (MUL) -> krl
+hfu -> ifk
+gpl -> vgm
+tfa -> soq
+che -> hfj
+dnq -> bmu
+bdz -> dxw
+bnr -> wwt
+bnr -> zwq
+zak -> kpz
+pqi -> jmp
+pqi -> est
+tep (ADD) -> ipu
+acm -> ugy
+hqw (NEG) -> but
+yvz -> rde
+ftm (NEG) -> xwi
+hfj -> bkz
+ujl -> msz
+wiv (NEG) -> lvq
+dqc (ADD) -> gks
+kax (OR) -> ztd
+vnd (ADD) -> umw
+ncl (MUL) -> lwq
+ine (SPL) -> otu
+ine (SPL) -> ojn
+kep (NEG) -> fzr
+qxh (OR) -> mof
+gva -> zht
+qab (AND) -> uas
+ego -> tnh
+vzu (OR) -> knj
+atp -> nls
+bah -> zjb
+pym -> dut
+cjf -> pvi
+gng (ADD) -> nlp
+cnt (NEG) -> psz
+jqt (AND) -> onw
+zix -> hla
+twg -> kcf
+xtk (SPL) -> fmr
+xtk (SPL) -> hbz
+gno -> thz
+pik -> xrl
+knj -> fmr
+knj -> hbz
+lph (ADD) -> gmh
+uwz (SPL) -> ruw
+uwz (SPL) -> bpd
+qep (ADD) -> oyy
+nei -> qtg
+pwj -> hru
+iga (NEG) -> ynu
+lkq -> qvr
+wkh (SPL) -> oqk
+wkh (SPL) -> hbe
+yzj -> zqf
+cem (NEG) -> kwo
+kxg (ADD) -> jwt
+tgx -> fgv
+tgx -> uev
+eki -> cuj
+kbk -> pjo
+olh -> iki
+dfk -> jka
+epd (MUL) -> output
+gda (NEG) -> exl
+plg -> erj
+etj -> ylz
+etj -> yzj
+oba -> eni
+izg -> jhm
+izg -> imp
+zlt (OR) -> yhv
+pkl (SPL) -> ine
+pkl (SPL) -> uoh
+rek -> hrh
+nec (SPL) -> uej
+nec (SPL) -> ihf
+wxh (NEG) -> sse
+nul (NEG) -> nww
+dxd -> sbk
+svq -> waq
+ypq -> wvg
+srd (AND) -> vud
+srd (AND) -> myz
+net -> cpf
+dck (OR) -> hgb
+utb -> rqw
+zpn -> ind
+uov -> yve
+uov -> ieu
+ogy -> uin
+wiq (OR) -> llc
+ull (ADD) -> ius
+abt (NEG) -> ydp
+nvk -> gho
+gxn (OR) -> vsd
+hzr (OR) -> fwg
+xnm (NEG) -> lzh
+zbu (NEG) -> ize
+eht -> eto
+taa -> xrl
+mwe (AND) -> gxf
+zio -> fmx
+uvj (NEG) -> tkg
+nls (OR) -> xzf
+zvh (NEG) -> knm
+ipu -> pse
+cnv -> kcv
+ipi -> aqh
+joo (ADD) -> qym
+rkr -> ukh
+rkr -> gri
+cvx -> qem
+otz (ADD) -> oqp
+tvv -> axe
+bcr -> kxf
+bcr -> bvq
+cgs (NEG) -> udc
+tud (NEG) -> sfv
+mcx -> yid
+hru (ADD) -> dra
+wze -> mez
+rue -> xcy
+ilw -> tlk
+vvc -> twg
+roh -> air
+roh -> njm
+hbz (MUL) -> njw
+tps -> fgs
+tps -> tnz
+lxk -> egv
+qnd (NEG) -> chi
+zdx -> xxd
+cst -> dqc
+wwt (NEG) -> fdp
+yas -> rmu
+iag (SPL) -> csg
+iag (SPL) -> uet
+hjr (NEG) -> rjq
+tlg (OR) -> eyj
+tlg (OR) -> yct
+cgp (NEG) -> qkh
+wuv (NEG) -> rdy
+nyf -> fbm
+zpg (NEG) -> gpd
+twh -> yhn
+twh -> myq
+pns -> die
+mof (NEG) -> uzm
+cbq (AND) -> rvd
+pse -> mvd
+cjv (SPL) -> ged
+cjv (SPL) -> pkm
+axu (ADD) -> kkq
+vmn -> hhy
+vmn -> aje
+olv -> oxb
+boz -> usp
+kwo (NEG) -> zko
+nxm -> kcc
+jho -> zbd
+jho -> ezs
+rle -> qxh
+iow (SPL) -> kqg
+iow (SPL) -> ves
+tsl -> tjp
+eyr -> qiz
+eyr -> ghk
+xio (NEG) -> lof
+zlb -> vpy
+gph -> fig
+swa -> moa
+bsi -> ltc
+iek -> piu
+iww -> rpj
+iww -> yyh
+kyn -> qfi
+rhm -> pxj
+eej -> pag
+sjo -> pfr
+sjo -> wzn
+yci (NEG) -> sxp
+vfb -> dck
+fmm -> xio
+cdt (OR) -> qik
+ezh -> qxh
+amx (ADD) -> oex
+amx (ADD) -> nvh
+fbb -> qiw
+oyy (OR) -> may
+kka -> jut
+kka -> oza
+pan (OR) -> bay
+hgb (OR) -> zae
+hgb (OR) -> rnk
+ecg -> fez
+lsa (NEG) -> ghq
+oup -> deu
+uvu (MUL) -> rnx
+uvu (MUL) -> xye
+vdm -> hzr
+vdm -> yze
+lde -> ywq
+ecm -> wtk
+wzb (NEG) -> mrl
+lbt -> dbp
+lbt -> fmi
+yug (SPL) -> nfp
+yug (SPL) -> hle
+nzt -> qdg
+xno (NEG) -> ijl
+kbu (OR) -> sto
+jtu (MUL) -> xhk
+xmb -> goz
+sud -> vbv
+sud -> iwm
+ncv -> apt
+vdp (MUL) -> ows
+uez (OR) -> xgf
+lwf (ADD) -> odx
+mlk (SPL) -> oxm
+mlk (SPL) -> azt
+pjp (NEG) -> hhk
+5521

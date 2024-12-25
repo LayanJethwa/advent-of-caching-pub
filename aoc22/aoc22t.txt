@@ -1,0 +1,10 @@
+Fuel: 420, plastic: 408, wood: 32
+Fuel: 297, plastic: 165, wood: 355
+Fuel: 151, plastic: 127, wood: 274
+Fuel: 56, plastic: 276, wood: 490
+Fuel: 232, plastic: 106, wood: 198
+Fuel: 4, plastic: 493, wood: 139
+Fuel: 210, plastic: 80, wood: 155
+Fuel: 254, plastic: 156, wood: 470
+Fuel: 283, plastic: 153, wood: 301
+Fuel: 496, plastic: 72, wood: 147

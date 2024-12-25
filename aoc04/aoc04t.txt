@@ -1,0 +1,10 @@
+Elf 640: 692 eJ >====< Elf 1556: 127 eJ
+Elf 71: 96 eJ >====< Elf 1325: 608 eJ
+Elf 310: 790 eJ >====< Elf 1478: 150 eJ
+Elf 844: 281 eJ >====< Elf 1111: 488 eJ
+Elf 278: 886 eJ >====< Elf 1852: 708 eJ
+Elf 252: 713 eJ >====< Elf 1420: 842 eJ
+Elf 780: 272 eJ >====< Elf 1866: 624 eJ
+Elf 299: 42 eJ >====< Elf 1706: 996 eJ
+Elf 145: 964 eJ >====< Elf 1758: 169 eJ
+Elf 452: 441 eJ >====< Elf 1558: 139 eJ

@@ -1,0 +1,11 @@
+lvh -> start
+bbt -> end
+zpy -> jql
+yrl -> jif
+zpy -> lvh
+jql -> yrl
+end -> puo
+puo -> yrl
+ebf -> zpy
+uzm -> lvh
+puo -> mug

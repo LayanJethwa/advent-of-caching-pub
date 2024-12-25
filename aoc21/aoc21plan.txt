@@ -1,0 +1,36 @@
+          Blitzen
+             []
+    
+Donner []  [█][Q*]  [] Prancer
+
+            []
+          Dasher
+
+
+            Blitzen
+               []
+
+  Dasher []        [] Vixen
+
+Donner []   [█][5O]    [] Prancer
+
+Comet []             []  Rudolph
+
+          []      []
+        Dancer   Cupid
+
+
+Dasher: [][][][][][][]
+Dancer: [][][][][][][]
+Prancer: [][][][][][][]
+Vixen: [][][][][][][]
+Comet: [][][][][][][]
+Cupid: [][][][][][][]
+Donner: [][][][][][][]
+Blitzen: [][][][][][][]
+Rudolph: [][][][][][][]
+
+40 cards left (31 for single test)
+Deck: [][][][][][][][][][][][]
+
+

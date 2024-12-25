@@ -1,0 +1,19 @@
+
+          Blitzen
+             []
+    
+Donner []  [█][Q*]  [] Prancer
+
+            []
+          Dasher
+
+
+Dasher: [8O][5+][6*]
+Prancer: [10*][J+][KO]
+Donner: [3J][K+][9O]
+Blitzen: [7O][6O][K*]
+
+Deck: [5O][JO][9+][9*][2O][8+][6+][4*][QJ][7+]
+      [6J][A+][10O][4J][3*][2+][9J][3+][4+][2*]
+      [AO][A*][JJ][7J][8J][4O][AJ][KJ][7*][5J]
+      [QO][J*][10J][10+][Q+][3O][5*][2J][8*]
