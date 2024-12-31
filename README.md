@@ -1,28 +1,41 @@
-These are the public files for Advent of Caching, a Geocaching series of 25 puzzles I created for Christmas 2024!  
-The puzzles are all coding ones, and are based on Eric Wastl's Advent of Code.  
-There is also a website for this if you want to try them out yourself: https://advent-of-caching.vercel.app/  
-Merry Christmas!  
 
+# Advent of Caching
 
-(if you run this locally, the answers will be wrong as they are not in the public source code)
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+These are the public files for Advent of Caching, a Geocaching series of 25 puzzles I created for Christmas 2024!
 
-## Getting Started
+The puzzles are all coding ones, and are based on Eric Wastl's Advent of Code.
 
-First, run the development server:
+There is also a website for this if you want to try them out yourself: https://advent-of-caching.vercel.app/
+
+***Merry Christmas!***
+## Run Locally
+*The answers for each day are not in the public source code, so they will be incorrect if you run this locally.*
+
+\
+Clone the project
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/LayanJethwa/advent-of-caching-pub
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Go to the project directory
+
+```bash
+  cd advent-of-caching-pub
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+\
+Open http://localhost:3000 with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
